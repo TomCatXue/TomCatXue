@@ -2,177 +2,128 @@
 
 <img src="https://github.com/TomCatXue/TomCatXue/blob/main/e3357601-b521-4be4-a657-b0d2a361a363.png?raw=true" width="100%" />
 
-<br>
+# 🌸 Hello World! 🌸
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=15&pause=1000&color=FFB7D5&center=true&vCenter=true&width=900&lines=Welcome+to+my+pixel+world+✨;AI+%2B+Minecraft+%2B+Code+%2B+Creativity;Keep+learning+and+building+💖" />
+### `Building the future with code and imagination ✨`
 
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%20Developer-FFC0CB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Minecraft%20Lover-FFDDEE?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NAS%20Builder-FFE4EC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pixel%20Style-FFF0F5?style=for-the-badge"/>
-
-<br><br>
-
-# 🌸 Hello World 🌸
-
-### ✨ Building the future with code and imagination ✨
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1000&color=F8BBD0&center=true&vCenter=true&width=700&lines=AI+%E2%9C%A8+Code+%E2%9C%A8+Minecraft;NAS+%7C+Linux+%7C+Homelab;Keep+Learning+%F0%9F%8C%B8;Welcome+to+my+pixel+world+%F0%9F%92%96" />
 
 </div>
 
 ---
 
-<div align="center">
+<table>
+<tr>
 
-# 🩷 About Me
+<td width="35%">
 
-</div>
+<img src="你的头像链接" width="100%" />
 
-<img align="right" width="230" src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif"/>
+## 🌷 Tom
 
-```bash
-> whoami
-
-TomCatXue
-
-AI developer
-Minecraft enthusiast
-Homelab builder
-Pixel style lover ✨
+```txt
+AI Developer
+Minecraft Lover
+NAS Builder
+Lifelong Learner
 ```
 
-- 🌸 AI课程研发 & 教学
+### 💌 About Me
+
+- 🤖 AI课程研发
 - 💻 C++ / Python / Web
-- ☁️ Docker / Linux / NAS
-- 🎮 Minecraft & 像素风
-- 🎬 AI视频创作
-- 🌐 Astro 博客开发
+- ☁️ Docker / Linux
+- 🎮 Minecraft玩家
+- 🌸 像素风爱好者
+- 🎬 AI视频创作者
 
-<br><br>
+### 🌐 Links
+
+<p align="center">
+
+<a href="你的GitHub">
+<img src="https://img.shields.io/badge/GitHub-F8BBD0?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+
+<a href="你的博客">
+<img src="https://img.shields.io/badge/Blog-FFE0EC?style=for-the-badge&logo=astro&logoColor=black"/>
+</a>
+
+</p>
+
+</td>
+
+<td width="65%">
+
+# 🌸 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,docker,linux,git,vscode,cloudflare,astro" />
+
+</p>
 
 ---
 
-<div align="center">
+# 💖 Current Projects
 
-# 🧸 Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,python,docker,linux,git,vscode,nodejs,astro,cloudflare,mysql"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌈 Current Projects
-
-</div>
-
-| 💖 Project | ✨ Description |
+| 项目 | 描述 |
 |---|---|
-| 🤖 AI Teaching | AI课程与教学系统 |
-| ☁️ Homelab Center | 飞牛 / Docker / NAS |
-| 🎮 Minecraft Style | 像素风AI项目 |
-| 🌐 Astro Blog | 个人技术博客 |
-| 🎬 AI Video | AI视频工作流 |
+| 🤖 AI Teaching | AI课程系统 |
+| ☁️ Homelab | NAS控制中心 |
+| 🎮 Minecraft Style | MC像素风项目 |
+| 🌐 Astro Blog | 技术博客 |
+| 🎬 AI Video | AI视频生成 |
 
 ---
-
-<div align="center">
 
 # 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TomCatXue&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000"/>
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TomCatXue&layout=compact&theme=rose_pine&hide_border=true&bg_color=00000000"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=rose_pine&hide_border=true"/>
 
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=rose_pine&hide_border=true"/>
 
----
-
-<div align="center">
-
-# 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TomCatXue&theme=tokyo-night&hide_border=true&area=true"/>
-
-</div>
+</p>
 
 ---
 
-<div align="center">
+# 🌸 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=你的用户名&theme=tokyo-night&hide_border=true&bg_color=FFF7FA&color=F48FB1&line=F8BBD0&point=F06292"/>
+
+</p>
+
+---
 
 # 🐍 Contribution Snake
 
+<p align="center">
+
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
 
-</div>
+</p>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 <div align="center">
 
-# 🌸 Cute Zone 🌸
-
-<img width="120" src="https://media.tenor.com/mGc1N4Vx5LAAAAAi/anime-computer.gif"/>
-
-<img width="120" src="https://media.tenor.com/o5c4xW7L1N0AAAAi/pixel-cat.gif"/>
-
-<img width="120" src="https://media.tenor.com/DimzPZMypFcAAAAi/laptop.gif"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 💌 Connect With Me
-
-<a href="https://github.com/TomCatXue">
-<img src="https://img.shields.io/badge/GitHub-FFC0CB?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
-<a href="https://你的博客">
-<img src="https://img.shields.io/badge/Blog-FFE4EC?style=for-the-badge&logo=astro&logoColor=black"/>
-</a>
-
-<a href="mailto:你的邮箱">
-<img src="https://img.shields.io/badge/Email-FFDDEE?style=for-the-badge&logo=gmail&logoColor=black"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌸 Visitor Counter
-
-<img src="https://komarev.com/ghpvc/?username=TomCatXue&style=for-the-badge&color=FFB7D5"/>
-
-</div>
-
----
-
-<div align="center">
+## 🌸 Thanks for visiting my pixel world 🌸
 
 ```txt
-Never stop learning ✨
-Keep coding 💖
-Keep building 🌸
+Keep coding ✨
+Keep creating 💖
+Keep learning 🌷
 ```
 
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB7D5&height=140&section=footer"/>
-
-### 💖 Thanks for visiting my pixel world 💖
-
-✨ Made with love, pixels, and code ✨
+<img src="https://komarev.com/ghpvc/?username=你的用户名&style=for-the-badge&color=F8BBD0"/>
 
 </div>
