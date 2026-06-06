@@ -1,61 +1,27 @@
-<div align="center">
+# Hi, I'm Tom Xue 👋
 
-# Tom Xue
+AI 开发者 / iOS 开发者
 
-AI Developer · iOS Developer · Homelab Builder
+专注于 AI 应用开发、移动端开发与 Homelab 搭建，喜欢研究新技术并将其应用到实际场景中。
 
-</div>
+## 技术栈
 
----
+`SwiftUI` `Python` `C++` `JavaScript` `Docker` `Linux`
 
-## 👋 About Me
+## 正在学习
 
-- 🤖 AI 教学与应用开发
-- 📱 iOS / SwiftUI 开发
-- 💻 C++ / Python / Web
-- ☁️ Docker / Linux / Homelab
-- 🎬 AI 视频与工具开发
-- 🎮 Minecraft / 像素风爱好者
+* AI Agent
+* MCP
+* 自托管服务
+* 云原生技术
 
----
+## 兴趣方向
 
-## 🚀 Current Projects
+* AI 教学
+* 效率工具
+* 家庭服务器
+* 开源项目
 
-- 📱 SIM Wallet —— eSIM 管理工具
-- 🎬 AnyVID —— 全平台视频下载工具
-- 🔧 UFI-Link —— 中兴 F50 / UFI 工具后台
-- 🤖 AI Teaching System —— AI 教学体系
-- ☁️ Homelab Platform —— 家庭服务器管理系统
+## 联系我
 
----
-
-## 🛠 Tech Stack
-
-C++ · Python · SwiftUI · JavaScript  
-Docker · Linux · Git · Cloudflare · Node.js
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&hide_border=true" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&hide_border=true" height="160"/>
-
-</p>
-
----
-
-## 📫 Contact
-
-- GitHub: https://github.com/TomCatXue
-
----
-
-<div align="center">
-
-Built with focus, not decoration.
-
-</div>
+GitHub: @TomCatXue
